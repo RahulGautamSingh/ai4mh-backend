@@ -18,7 +18,7 @@ You need to the following dependencies for local development:
 2. Clone your fork:
 
 ```bash
-git clone https://github.com/RahulGautamSingh/ai4mh-backend.git
+git clone https://github.com/<your-username>/ai4mh-backend.git
 cd ai4mh-backend
 ```
 
